@@ -2,8 +2,8 @@
 
 <div align="left">
   <a href="https://github.com/dardaniacoimbra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dardaniacoimbra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dardaniacoimbra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=dardaniacoimbra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dardaniacoimbra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline-block"><br>
   <img align="right" alt="darda-yoda" height="100" width="100"src="https://media2.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif?cid=790b7611854a4cdded75a2682f135ada8b4a448f4823e5d7&rid=giphy.gif&ct=g">
