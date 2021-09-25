@@ -1,11 +1,11 @@
 ### Olá! Eu sou Dardânia Camargos 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/dardaniacoimbra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dardaniacoimbra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dardaniacoimbra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="right" alt="darda-yoda" height="100" width="100"src="https://media2.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif?cid=790b7611854a4cdded75a2682f135ada8b4a448f4823e5d7&rid=giphy.gif&ct=g">
   <img align="center" alt="dardania-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dardania-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
