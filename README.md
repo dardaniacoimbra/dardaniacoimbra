@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dardaniacoimbra&show_icons=true&theme=dark&locale=en&layout=compact" alt="dardaniacoimbra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dardaniacoimbra&show_icons=true&theme=dark&title_color=f9f5f5&text_color=7d10ea&locale=en" alt="dardaniacoimbra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dardaniacoimbra&theme=dark" alt="dardaniacoimbra" /></p>
