@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dardânia</h1>
 <h3 align="center">A passionate Front-end developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Site Ada Lovelace](https://github.com/dardaniacoimbra/ada-lovelace)
+- 🔭 I’m currently working on: [Site Ada Lovelace](https://github.com/dardaniacoimbra/ada-lovelace)
 
-- 📝 I regularly write articles on [https://medium.com/@dardania.camargos](https://medium.com/@dardania.camargos)
+- 📝 I regularly write articles on: [Medium](https://medium.com/@dardania.camargos)
 
-- 💬 Ask me about **HTML, CSS and JS.**
+- 💬 Ask me about: **HTML, CSS and JS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
